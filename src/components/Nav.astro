@@ -9,13 +9,47 @@ const links = [
   ["Contact", "#contact"]
 ];
 ---
+
 <nav class="nav">
   <div class="nav__inner">
     <a class="nav__brand" href="#top">{name}</a>
-    <div class="nav__links">
+
+    <!-- Hamburger (mobile) -->
+    <button
+      class="nav__hamburger"
+      type="button"
+      aria-label="Open menu"
+      aria-expanded="false"
+      aria-controls="nav-links"
+    >
+      <span></span><span></span><span></span>
+    </button>
+
+    <!-- Overlay (mobile) -->
+    <div class="nav__overlay" data-nav-overlay></div>
+
+    <!-- Links -->
+    <div class="nav__links" id="nav-links">
       {links.map(([label, href]) => (
         <a class="nav__link" href={href}>{label}</a>
       ))}
     </div>
   </div>
 </nav>
+
+<script is:inline>
+  const btn = document.querySelector(".nav__hamburger");
+  const links = document.querySelector(".nav__links");
+  const overlay = document.querySelector("[data-nav-overlay]");
+
+  function setOpen(open) {
+    btn.classList.toggle("is-open", open);
+    links.classList.toggle("is-open", open);
+    overlay.classList.toggle("is-open", open);
+    btn.setAttribute("aria-expanded", String(open));
+  }
+
+  btn.addEventListener("click", () => setOpen(!links.classList.contains("is-open")));
+  overlay.addEventListener("click", () => setOpen(false));
+
+  // Close me
