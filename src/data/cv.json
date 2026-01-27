@@ -4,6 +4,8 @@
   "location": "Barcelona",
   "phone": "+34 688 92 50 63",
   "email": "jiglesiasf@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/jiglesiasf/",
+  "github": "https://github.com/jiglesiasf",
   "summary": "Focus on people management and engineering culture. Looking for an opportunity to scale up engineering organizations, improving processes and optimizing performance and delivery on product/tech teams. Alignment between tech strategy and business.",
   "values": [
     {
@@ -27,6 +29,18 @@
     {
       "label": "Email",
       "url": "mailto:jiglesiasf@gmail.com"
+    }, 
+    {
+      "label": "Phone",
+      "url": "tel:+34688925063"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jiglesiasf/"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/jiglesiasf"
     }
   ],
   "experience": {
