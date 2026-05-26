@@ -84,6 +84,17 @@ const title = `${cv.name} — ${cv.title}`;
             </Card>
           ))}
         </div>
+
+        <h3 class="kicker" style="margin-top: 1.5rem;">Previous experience</h3>
+        <div class="grid grid--2">
+          {cv.previous_experience.map((x) => (
+            <Card
+              title={x.role}
+              meta={`${x.location} • ${x.start} → ${x.end}`}
+              highlights={[]}
+            />
+          ))}
+        </div>
       </Section>
 
       <Section id="education" title="Education">
