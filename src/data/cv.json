@@ -1,12 +1,13 @@
 {
-  "name": "Juan Iglesias Fern\u00e1ndez",
-  "title": "Engineering Leader \u2022 People Management \u2022 Engineering Culture",
+  "name": "Juan Iglesias Fernández",
+  "title": "Engineering Leader | Senior Engineering Manager | Head of Engineering",
+  "address": "Barcelona",
   "location": "Barcelona",
   "phone": "+34 688 92 50 63",
   "email": "jiglesiasf@gmail.com",
   "linkedin": "https://www.linkedin.com/in/jiglesiasf/",
   "github": "https://github.com/jiglesiasf",
-  "summary": "Focus on people management and engineering culture. Looking for an opportunity to scale up engineering organizations, improving processes and optimizing performance and delivery on product/tech teams. Alignment between tech strategy and business.",
+  "summary": "Engineering leader with 8+ years of experience in software engineering and engineering management, including Senior Engineering Manager / Head of Engineering responsibilities across multi-team organizations. Strong focus on building high-performing teams, creating structure in fast-moving environments, improving delivery predictability, and aligning engineering execution with product and business strategy. Experienced in managing managers, coaching Staff and Principal engineers, scaling engineering practices, defining roadmaps and capacity plans, and partnering closely with Product, Marketing, Customer Success, Security, and executive stakeholders. Background in mobile, backend, microservices, cloud-native systems, and large-scale marketplace products.",
   "values": [
     {
       "title": "🤝 Collaboration",
@@ -18,7 +19,7 @@
     },
     {
       "title": "🌟 Optimism",
-      "description": "I work better when I'm happy. If I spend 8 hours a day with a team, I want to enjoy the journey while bringing real value to the company — and creating impact makes me even happier."
+      "description": "I work better when I'm happy. If I spend 8 hours a day with a team, I want to enjoy the journey while bringing real value to the company, and creating impact makes me even happier."
     },
     {
       "title": "👥 People first",
@@ -29,7 +30,7 @@
     {
       "label": "Email",
       "url": "mailto:jiglesiasf@gmail.com"
-    }, 
+    },
     {
       "label": "Phone",
       "url": "tel:+34688925063"
@@ -48,39 +49,48 @@
       {
         "company": "Eventbrite",
         "location": "Barcelona",
-        "role": "Senior Engineering Manager / Pillar Lead (Post-Purchase)",
+        "role": "Senior Engineering Manager, Post-Purchase Pillar",
         "start": "2024-01",
         "end": "Present",
         "highlights": [
-          "Leading the Post-Purchase pillar: define goals, strategy, structure, and budgeting.",
-          "Manage 4 teams through 3 managers (5 direct reports, 24 total reports).",
-          "Coach and mentor Principals, Staff engineers, and engineering managers across orgs.",
-          "Supported 3 people growing on the engineering manager path.",
-          "Drove promotion of a Staff Engineer to Principal Engineer.",
-          "Partner closely with Marketing, Product, Customer Success, and Security to align requirements and strategy."
+          "Lead the Post-Purchase pillar, defining pillar goals, strategy, and structure.",
+          "Support teams in defining their roadmaps and managing the organization budget.",
+          "Manage 4 teams through 3 managers, with 5 direct reports and 24 reports in the organization.",
+          "Coach and mentor Principal and Staff engineers and engineering managers across my organization and other organizations.",
+          "Support 3 people growing into the engineering manager path.",
+          "Drove promotions to Principal Engineer.",
+          "Influence the organization to use, learn from, and optimize delivery with AI.",
+          "Partner closely with Marketing, Product, Customer Success, and Security to align requirements and set a clear engineering strategy."
         ],
         "tags": [
           "Leadership",
-          "Org Design",
-          "Strategy",
+          "Managing Managers",
+          "Org Strategy",
           "Budgeting",
+          "AI",
           "Coaching"
         ]
       },
       {
         "company": "Eventbrite",
         "location": "Barcelona",
-        "role": "Engineering Manager (Listings Team)",
+        "role": "Engineering Manager, Listings Team",
         "start": "2022-02",
         "end": "2024-01",
         "highlights": [
-          "Transformed the team into a top performance team.",
-          "Drove the strategy to move the listing page out of the legacy monolith."
+          "Led the Listings engineering team, improving performance, delivery habits, and technical direction for one of Eventbrite's core product surfaces.",
+          "Transformed the team into a high-performing engineering group with clearer ownership, stronger execution, and better delivery predictability.",
+          "Owned end-to-end engineering execution of Eventbrite's video experience for event listings, enabling creators to upload videos and display them seamlessly across web and mobile listing pages.",
+          "Drove the strategy to move Eventbrite's listing page out of the legacy monolith.",
+          "Partnered with Product and technical leads to define roadmap execution, sequencing, and technical trade-offs.",
+          "Improved team ways of working, planning rituals, and delivery focus."
         ],
         "tags": [
-          "Transformation",
+          "Performance",
           "Execution",
-          "Modernization"
+          "Delivery Predictability",
+          "Modernization",
+          "Roadmaps"
         ]
       },
       {
@@ -90,55 +100,62 @@
         "start": "2021-01",
         "end": "2022-02",
         "highlights": [
-          "Partnered with product manager and tech lead to ensure efficient and successful delivery.",
-          "Managed multifunctional teams.",
-          "Coach & mentor; hiring manager of the segment.",
-          "Tech: Microservices, Kotlin, AWS, Swift."
+          "Partnered with Product Manager and Tech Lead to make sure delivery was efficient and successful.",
+          "Managed a multifunctional team.",
+          "Coached and mentored engineers.",
+          "Served as hiring manager for the segment.",
+          "Worked across microservices, Kotlin, AWS, and Swift."
         ],
         "tags": [
-          "Hiring",
           "Delivery",
+          "Coaching",
+          "Hiring",
+          "Microservices",
           "Kotlin",
-          "AWS",
-          "Swift"
+          "AWS"
         ]
       },
       {
-        "company": "Safe365",
+        "company": "Safe 365",
         "location": "Barcelona",
         "role": "CTO",
         "start": "2020-06",
         "end": "2020-12",
         "highlights": [
-          "Partnered with executive team to execute current strategic plan and develop future plans.",
-          "Defined and executed hiring and onboarding processes for engineering.",
+          "Partnered with other members of the executive team to execute the corporate strategic plan and develop future plans.",
+          "Defined and executed hiring and onboarding processes for the engineering team.",
           "Ensured performance, strategy, and alignment of the tech team.",
-          "Led engineering team to deliver MVP."
+          "Led the engineering team to successfully deliver the Safe365 MVP."
         ],
         "tags": [
           "CTO",
+          "Executive Team",
           "Hiring",
+          "Onboarding",
           "MVP",
           "Strategy"
         ]
       },
       {
-        "company": "letgo",
+        "company": "Letgo",
         "location": "Barcelona",
         "role": "Engineering Manager",
         "start": "2018-04",
         "end": "2020-06",
         "highlights": [
-          "Defined OKRs quarterly.",
-          "Worked with VP Engineering and Product Director to define headcount and team distribution per quarter.",
-          "Led team to increase revenue target by 15x.",
-          "Participated in scale-up engineering team.",
-          "Part of core values company team."
+          "Led engineering teams during a scale-up phase, focused on revenue growth, team structure, and delivery execution.",
+          "Defined quarterly OKRs and translated them into engineering priorities.",
+          "Worked closely with the VP of Engineering and Product Director to define headcount planning and team distribution.",
+          "Led initiatives that contributed to a 15x increase in revenue target.",
+          "Participated in scaling the engineering organization during a high-growth phase.",
+          "Contributed to the company core values team, helping shape culture and engineering behaviors."
         ],
         "tags": [
           "OKRs",
           "Scale-up",
-          "Leadership"
+          "Revenue Growth",
+          "Headcount Planning",
+          "Culture"
         ]
       }
     ],
@@ -151,7 +168,7 @@
         "end": "2018-04",
         "highlights": [
           "Developed features and iterations on the letgo app.",
-          "Collaborated directly with Product and Backend to define features and technical decisions."
+          "Worked directly with Product and Backend teams to define features and make technical implementation decisions."
         ],
         "tags": [
           "iOS",
@@ -166,7 +183,7 @@
         "start": "2015-11",
         "end": "2016-10",
         "highlights": [
-          "Built iOS app from scratch (100% Swift).",
+          "Built an iOS app from scratch, 100% in Swift.",
           "Worked with HealthKit, Beacons, and CoreLocation."
         ],
         "tags": [
@@ -178,12 +195,12 @@
       },
       {
         "company": "Tecnocom S.A. (Inditex)",
-        "location": "A Coru\u00f1a",
+        "location": "A Coruña",
         "role": "iOS Developer",
         "start": "2015-05",
         "end": "2015-11",
         "highlights": [
-          "Built iOS apps for Inditex Group (Zara Home & Uterque)."
+          "Built iOS apps for Inditex Group, including Zara Home and Uterque."
         ],
         "tags": [
           "iOS",
@@ -194,7 +211,7 @@
   },
   "previous_experience": [
     {
-      "role": "Web Developer \u2013 Freelance",
+      "role": "Web Developer - Freelance",
       "location": "Santiago de Chile",
       "start": "2013-05",
       "end": "2015-05"
@@ -206,6 +223,12 @@
       "end": "2015-05"
     },
     {
+      "role": "Teacher of Mobile Apps Development - Academia Postal",
+      "location": "A Coruña",
+      "start": "2012-01",
+      "end": "2012-06"
+    },
+    {
       "role": "Web Developer and Video Editor - Softinsa (IBM)",
       "location": "Lisbon (Portugal)",
       "start": "2011-01",
@@ -213,7 +236,7 @@
     },
     {
       "role": "Technical FX - Dygrafilms",
-      "location": "A Coru\u00f1a (Spain)",
+      "location": "A Coruña (Spain)",
       "start": "2010-01",
       "end": "2010-12"
     }
@@ -221,14 +244,14 @@
   "education": [
     {
       "program": "Master in Digital Creation and Communication",
-      "institution": "University of A Coru\u00f1a",
+      "institution": "University of A Coruña",
       "location": "Spain",
       "start": "2009",
       "end": "2010"
     },
     {
       "program": "Computer Science",
-      "institution": "University of A Coru\u00f1a",
+      "institution": "University of A Coruña",
       "location": "Spain",
       "start": "2004",
       "end": "2008"
@@ -271,15 +294,29 @@
     }
   ],
   "skills": [
-    "People Management",
-    "Engineering Culture",
-    "Organization Design",
-    "Coaching & Mentoring",
-    "Hiring",
+    "Engineering Leadership",
+    "Senior Engineering Management",
+    "Head of Engineering Responsibilities",
+    "Managing Managers",
+    "High-performing Teams",
+    "Org Design",
+    "Delivery Predictability",
+    "Roadmaps",
+    "Capacity Planning",
     "Strategy & Alignment",
+    "Stakeholder Management",
+    "Coaching & Mentoring",
+    "Staff & Principal Engineer Coaching",
+    "Product Partnership",
+    "Security Partnership",
+    "Engineering Culture",
+    "Hiring",
     "OKRs",
-    "Delivery Management",
     "Microservices",
+    "Cloud-native Systems",
+    "Marketplace Products",
+    "Mobile",
+    "Backend",
     "Kotlin",
     "AWS",
     "Swift"
